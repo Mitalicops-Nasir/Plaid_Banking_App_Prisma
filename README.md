@@ -2,6 +2,22 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## THIS A BANKING WEB APP WITH A LANDING PAGE AND THE APP SUPPORTS DARK MODE. 
+
+## TECH STACK
+
+# PRISMA
+# AUTH JS
+# NEXT JS
+# TAILWIND CSS
+# MONGO DB
+# REACT
+
+## BANKING TECH STACK
+
+# PLAID API FOR BANKING
+# DWOLLA V2 FOR TRANSACTIONS AND PAYMENTS
+
 First, run the development server:
 
 ```bash
