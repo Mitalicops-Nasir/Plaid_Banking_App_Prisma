@@ -7,10 +7,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 # TECH STACK
 
 PRISMA
+
 AUTH JS
+
 NEXT JS
+
 TAILWIND CSS
+
 MONGO DB
+
 REACT
 
 # BANKING TECH STACK
